@@ -54,7 +54,7 @@ Tab:AddButton({
 	Callback = function()
       	if _G.KeyInput == _G.Key then
         MakeScriptHub()
-        loadstring(game:HttpGet("https://pastebin.com/raw/QBLfPyHY"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/Zq0nEN6h"))()
         else
             IncorrectKeyNotification()
         end
